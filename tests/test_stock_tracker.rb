@@ -1,3 +1,4 @@
+# Minor edit
 require 'rspec'
 require_relative '../lib/stock_tracker'
 

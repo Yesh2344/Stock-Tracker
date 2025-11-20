@@ -1,0 +1,7 @@
+stocks:
+  - symbol: AAPL
+    upper_threshold: 180.00
+    lower_threshold: 150.00
+  - symbol: MSFT
+    upper_threshold: 350.00
+    lower_threshold: 300.00

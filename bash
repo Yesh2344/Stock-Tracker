@@ -1,0 +1,1 @@
+ruby tests/test_stock_tracker.rb
